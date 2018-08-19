@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style>
+      /*  解决方式一:使用flex  
+      在父盒子设置display: flex; justify-content: center;align-items: center
+      .parent{
+            width: 1000px;
+            height: 1000px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: #cccccc;
+        }
+        .children{
+            width: 100px;
+            height: 100px;
+            background-color: red;
+        }
+        */
+       /* 解决方式二:2.使用css的transform
+       父盒子设置:display:relative
+	    Div 设置: transform: translate(-50%，-50%);position: absolute;top: 50%;left: 50%;
+
+        .parent{
+            width: 1000px;
+            height: 1000px;
+            position: relative;
+            background-color: #cccccc;
+        }
+        .children{
+            width: 100px;
+            height: 100px;
+            background-color: red;
+            position: absolute;
+            top:50%;
+            left: 50%;
+            transform: translate(-50%,-50%);
+        }
+        */
+        /*
+        解决方式三:3.display：table-cell
+        父盒子设置:display:table-cell; text-align:center;vertical-align:middle;
+	    Div 设置: display:inline-block;vertical-align:middle;
+
+        .parent{
+            width: 1000px;
+            height: 1000px;
+            background-color: #cccccc;
+            display: table-cell;
+            vertical-align: middle;
+            text-align: center;
+        }
+        .children{
+            width: 100px;
+            height: 100px;
+            background-color: red;
+            display: inline-block;
+        }
+        */
+    </style>
+</head>
+<body>
+    <div class="parent">
+        <div class="children"></div>
+    </div>
+</body>
+</html>

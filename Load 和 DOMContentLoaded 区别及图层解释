@@ -1,0 +1,17 @@
+
+Load 和 DOMContentLoaded 区别:
+    Load 事件触发代表页面中的 DOM,CSS,JS,图片已经全部加载完毕。
+
+    DOMContentLoaded 事件触发代表初始的 HTML 被完全加载和解析,不需要等待
+    CSS,JS,图片加载
+
+图层:
+    一般来说,可以把普通文档流看成一个图层。特定的属性可以生成一个新的图层。
+    不同的图层渲染互不影响,所以对于某些频繁需要渲染的建议单独生成一个新图层,提
+    高性能。但也不能生成过多的图层,会引起反作用。
+
+    通过以下几个常用属性可以生成新图层:
+        1.3D 变换:translate3d、translateZ
+        2.video、iframe 标签
+        3.通过动画实现的 opacity 动画转换
+        4.position: fixed
