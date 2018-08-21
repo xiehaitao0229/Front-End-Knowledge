@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="be022b01-cfb3-4de0-9358-b9b537b65fee" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="be022b01-cfb3-4de0-9358-b9b537b65fee" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -32,7 +30,7 @@
           <entry key="DNS预解析" value="1" />
           <entry key="Load 和 DOMContentLoaded 区别" value="1" />
           <entry key="html" value="2" />
-          <entry key="js" value="7" />
+          <entry key="js" value="8" />
           <entry key="new操作发生什么" value="1" />
           <entry key="从输入URL到页面加载完成的过程梳理" value="1" />
           <entry key="优化渲染过程" value="1" />
@@ -48,7 +46,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="HTML" value="2" />
-          <entry key="JavaScript" value="7" />
+          <entry key="JavaScript" value="8" />
           <entry key="PLAIN_TEXT" value="13" />
         </counts>
       </usages-collector>
@@ -58,7 +56,7 @@
           <entry key="DNS预解析" value="23" />
           <entry key="Load 和 DOMContentLoaded 区别及图层解释" value="28" />
           <entry key="html" value="23" />
-          <entry key="js" value="1925" />
+          <entry key="js" value="2643" />
           <entry key="从输入URL到页面加载完成的过程梳理" value="526" />
           <entry key="优化渲染过程" value="108" />
           <entry key="存储" value="625" />
@@ -73,7 +71,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="23" />
-          <entry key="JavaScript" value="1925" />
+          <entry key="JavaScript" value="2643" />
           <entry key="PLAIN_TEXT" value="2042" />
         </counts>
       </usages-collector>
@@ -81,13 +79,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/栈.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="602">
-              <caret line="47" column="5" lean-forward="true" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
+            <state relative-caret-position="177">
+              <caret line="44" column="34" lean-forward="true" selection-end-line="50" selection-end-column="2" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/队列.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="545">
+              <caret line="103" column="9" lean-forward="true" selection-start-line="103" selection-start-column="9" selection-end-line="103" selection-end-column="9" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="n#Stack#0" />
               </folding>
             </state>
           </provider>
@@ -134,6 +145,7 @@
         <option value="$PROJECT_DIR$/深浅拷贝" />
         <option value="$PROJECT_DIR$/从输入URL到页面加载完成的过程梳理" />
         <option value="$PROJECT_DIR$/栈.js" />
+        <option value="$PROJECT_DIR$/队列.js" />
       </list>
     </option>
   </component>
@@ -237,7 +249,7 @@
       <workItem from="1534655699453" duration="763000" />
       <workItem from="1534656474729" duration="7914000" />
       <workItem from="1534725749151" duration="2868000" />
-      <workItem from="1534752074610" duration="1204000" />
+      <workItem from="1534752074610" duration="5707000" />
     </task>
     <task id="LOCAL-00001" summary="Merge branch 'master' of github.com:xiehaitao0229/-&#10;&#10;# 请输入一个提交信息以解释此合并的必要性，尤其是将一个更新后的上游分支&#10;# 合并到主题分支。&#10;#&#10;# 以 '#' 开头的行将被忽略，而且空提交说明将会终止提交。">
       <created>1534747103776</created>
@@ -250,7 +262,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20130000" />
+    <option name="totallyTimeSpent" value="24633000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
@@ -268,7 +280,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.18248945" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.46097046" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -429,10 +441,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/栈.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="602">
-          <caret line="47" column="5" lean-forward="true" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
+        <state relative-caret-position="177">
+          <caret line="44" column="34" lean-forward="true" selection-end-line="50" selection-end-column="2" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/队列.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="545">
+          <caret line="103" column="9" lean-forward="true" selection-start-line="103" selection-start-column="9" selection-end-line="103" selection-end-column="9" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#Stack#0" />
           </folding>
         </state>
       </provider>
