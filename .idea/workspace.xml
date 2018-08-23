@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="be022b01-cfb3-4de0-9358-b9b537b65fee" name="Default Changelist" comment="" />
+    <list default="true" id="be022b01-cfb3-4de0-9358-b9b537b65fee" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -15,13 +17,13 @@
     <session id="1185930666">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
+          <entry key="project.closed" value="7" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.1" value="2" />
-          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="7" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -29,8 +31,8 @@
           <entry key="3" value="1" />
           <entry key="DNS预解析" value="1" />
           <entry key="Load 和 DOMContentLoaded 区别" value="1" />
-          <entry key="html" value="2" />
-          <entry key="js" value="8" />
+          <entry key="html" value="3" />
+          <entry key="js" value="10" />
           <entry key="new操作发生什么" value="1" />
           <entry key="从输入URL到页面加载完成的过程梳理" value="1" />
           <entry key="优化渲染过程" value="1" />
@@ -45,8 +47,8 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="2" />
-          <entry key="JavaScript" value="8" />
+          <entry key="HTML" value="3" />
+          <entry key="JavaScript" value="10" />
           <entry key="PLAIN_TEXT" value="13" />
         </counts>
       </usages-collector>
@@ -55,8 +57,8 @@
           <entry key="3" value="30" />
           <entry key="DNS预解析" value="23" />
           <entry key="Load 和 DOMContentLoaded 区别及图层解释" value="28" />
-          <entry key="html" value="23" />
-          <entry key="js" value="2643" />
+          <entry key="html" value="411" />
+          <entry key="js" value="2908" />
           <entry key="从输入URL到页面加载完成的过程梳理" value="526" />
           <entry key="优化渲染过程" value="108" />
           <entry key="存储" value="625" />
@@ -70,8 +72,8 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="23" />
-          <entry key="JavaScript" value="2643" />
+          <entry key="HTML" value="411" />
+          <entry key="JavaScript" value="2908" />
           <entry key="PLAIN_TEXT" value="2042" />
         </counts>
       </usages-collector>
@@ -82,8 +84,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/栈.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="177">
-              <caret line="44" column="34" lean-forward="true" selection-end-line="50" selection-end-column="2" />
+            <state>
+              <caret selection-end-line="4" selection-end-column="4" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -91,15 +93,32 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/队列.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="545">
+            <state relative-caret-position="1723">
               <caret line="103" column="9" lean-forward="true" selection-start-line="103" selection-start-column="9" selection-end-line="103" selection-end-column="9" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
-                <element signature="n#Stack#0" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css黏住固定底部.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="460">
+              <caret line="20" column="30" lean-forward="true" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -109,8 +128,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -121,7 +140,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/demo.js" />
         <option value="$PROJECT_DIR$/new操作发生什么.js" />
         <option value="$PROJECT_DIR$/instanceof.js" />
         <option value="$PROJECT_DIR$/事件机制.js" />
@@ -146,6 +164,10 @@
         <option value="$PROJECT_DIR$/从输入URL到页面加载完成的过程梳理" />
         <option value="$PROJECT_DIR$/栈.js" />
         <option value="$PROJECT_DIR$/队列.js" />
+        <option value="$PROJECT_DIR$/链表.js" />
+        <option value="$PROJECT_DIR$/demo.js" />
+        <option value="$PROJECT_DIR$/demo.html" />
+        <option value="$PROJECT_DIR$/css黏住固定底部.html" />
       </list>
     </option>
   </component>
@@ -167,6 +189,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -178,7 +201,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -201,14 +223,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.为什么0.1+0.2!=0.3">
+  <component name="RunManager">
     <configuration name="ServiceWorker.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/知识点总结/ServiceWorker.html">
       <method v="2" />
     </configuration>
     <configuration name="如何渲染几万条数据并不卡主页面.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/知识点总结/如何渲染几万条数据并不卡主页面.html">
       <method v="2" />
     </configuration>
-    <configuration name="为什么0.1+0.2!=0.3" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/为什么0.1+0.2!=0.3" working-dir="$PROJECT_DIR$">
+    <configuration name="css黏住固定底部.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/知识点总结/css黏住固定底部.html">
       <method v="2" />
     </configuration>
     <configuration name="demo.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="demo.js" working-dir="$PROJECT_DIR$">
@@ -218,18 +240,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Node.js.为什么0.1+0.2!=0.3" />
       <item itemvalue="Node.js.demo.js" />
       <item itemvalue="Node.js.instanceof.js" />
       <item itemvalue="JavaScript Debug.ServiceWorker.html" />
       <item itemvalue="JavaScript Debug.如何渲染几万条数据并不卡主页面.html" />
+      <item itemvalue="JavaScript Debug.css黏住固定底部.html" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.css黏住固定底部.html" />
+        <item itemvalue="Node.js.demo.js" />
         <item itemvalue="JavaScript Debug.如何渲染几万条数据并不卡主页面.html" />
         <item itemvalue="JavaScript Debug.ServiceWorker.html" />
         <item itemvalue="Node.js.instanceof.js" />
-        <item itemvalue="Node.js.demo.js" />
       </list>
     </recent_temporary>
   </component>
@@ -249,7 +272,8 @@
       <workItem from="1534655699453" duration="763000" />
       <workItem from="1534656474729" duration="7914000" />
       <workItem from="1534725749151" duration="2868000" />
-      <workItem from="1534752074610" duration="5707000" />
+      <workItem from="1534752074610" duration="8752000" />
+      <workItem from="1534915953596" duration="3486000" />
     </task>
     <task id="LOCAL-00001" summary="Merge branch 'master' of github.com:xiehaitao0229/-&#10;&#10;# 请输入一个提交信息以解释此合并的必要性，尤其是将一个更新后的上游分支&#10;# 合并到主题分支。&#10;#&#10;# 以 '#' 开头的行将被忽略，而且空提交说明将会终止提交。">
       <created>1534747103776</created>
@@ -262,7 +286,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24633000" />
+    <option name="totallyTimeSpent" value="31164000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
@@ -347,7 +371,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo.js" />
     <entry file="file://$PROJECT_DIR$/渲染机制">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="322">
@@ -439,10 +462,11 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/链表.js" />
     <entry file="file://$PROJECT_DIR$/栈.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="44" column="34" lean-forward="true" selection-end-line="50" selection-end-column="2" />
+        <state>
+          <caret selection-end-line="4" selection-end-column="4" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
@@ -451,12 +475,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/队列.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="545">
+        <state relative-caret-position="1723">
           <caret line="103" column="9" lean-forward="true" selection-start-line="103" selection-start-column="9" selection-end-line="103" selection-end-column="9" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
-            <element signature="n#Stack#0" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css黏住固定底部.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="20" column="30" lean-forward="true" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
         </state>
       </provider>
     </entry>
